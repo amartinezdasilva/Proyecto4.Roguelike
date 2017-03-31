@@ -1,0 +1,71 @@
+Initialize engine version: 5.5.2f1 (3829d7f588f3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 920M (ID=0x1299)
+    Vendor:   NVIDIA
+    VRAM:     2020 MB
+    Driver:   21.20.16.4550
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Aaron\Documents\Roguelike\Juego_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Aaron\Documents\Roguelike\Juego_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Aaron\Documents\Roguelike\Juego_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Aaron\Documents\Roguelike\Juego_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Aaron\Documents\Roguelike\Juego_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Aaron\Documents\Roguelike\Juego_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Aaron\Documents\Roguelike\Juego_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Aaron\Documents\Roguelike\Juego_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Aaron\Documents\Roguelike\Juego_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Aaron\Documents\Roguelike\Juego_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.156 seconds
+Platform assembly: C:\Users\Aaron\Documents\Roguelike\Juego_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Aaron\Documents\Roguelike\Juego_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 2646x1274 at 0,-506
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.209597 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.828368 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 929.
+Total: 0.433492 ms (FindLiveObjects: 0.065706 ms CreateObjectMapping: 0.046079 ms MarkObjects: 0.317012 ms  DeleteObjects: 0.004266 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.637865 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 914.
+Total: 0.390399 ms (FindLiveObjects: 0.072533 ms CreateObjectMapping: 0.030293 ms MarkObjects: 0.282879 ms  DeleteObjects: 0.004266 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.642985 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 940.
+Total: 0.430505 ms (FindLiveObjects: 0.074239 ms CreateObjectMapping: 0.028586 ms MarkObjects: 0.322986 ms  DeleteObjects: 0.004266 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.637012 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 932.
+Total: 0.453545 ms (FindLiveObjects: 0.134826 ms CreateObjectMapping: 0.028159 ms MarkObjects: 0.285012 ms  DeleteObjects: 0.004693 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.678398 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 945.
+Total: 0.467625 ms (FindLiveObjects: 0.108799 ms CreateObjectMapping: 0.027306 ms MarkObjects: 0.326826 ms  DeleteObjects: 0.003839 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.670292 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 922.
+Total: 0.423679 ms (FindLiveObjects: 0.065279 ms CreateObjectMapping: 0.044373 ms MarkObjects: 0.305919 ms  DeleteObjects: 0.007679 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.649385 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 948.
+Total: 0.361386 ms (FindLiveObjects: 0.045226 ms CreateObjectMapping: 0.027733 ms MarkObjects: 0.283306 ms  DeleteObjects: 0.004266 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 21fc -> priority: 1 
